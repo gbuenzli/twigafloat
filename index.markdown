@@ -4,7 +4,7 @@
 
 layout: home
 ---
-  <div class="s1" >
+  <div class="twig" >
 <img src="twig.jpg"/>
 <br/>
 	I remembered reading that the smallest bird could travel 
