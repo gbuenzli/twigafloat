@@ -145,11 +145,20 @@ Holding Tank: 21 gal
 <div class="row">
   <div class="column">
 <img src="/assets/img/12.png">
+
+
+  </div>
+  <div class="column">
+
 <img src="/assets/img/21.png">
 
   </div>
   <div class="column">
   	<img src="/assets/img/40.png">
+
+  </div>
+  <div class="column">
+  	
 <img src="/assets/img/41.png">
   </div>
 </div>

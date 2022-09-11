@@ -50,7 +50,7 @@ Ok, done.  got through another year of Holiday photos.  Onto Zorbas for some con
 
 "I'll have the Gyros,  pancakes for the kids.  Sugar Britches, is your phone ringing?"
 
-Mom:  "Hello?  Yeah, I just sent you the email to send the pics to.  Huh?  What do you mean, we just left"
+Mom:  "Hello?  Yeah, I just sent you the email to send the pics to.  Huh?  What do you mean? We just left"
 
 %$%*! &#(^*&^!?  (*&^@#$)).  F**K.
 
