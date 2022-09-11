@@ -34,15 +34,15 @@ Bryan:  "So sorry, not sure what happened.  Let's roll."
 
 Bryan:  "Everybody, over here"
 
-Bryan:  "No, not that.  Girl child...get in front"
+Bryan:  "No, not that!  Girl child...get in front!"
 
-Bryan:  "Small boy, better smile"
-
-
-Bryan:  "Tall boy, look over here"
+Bryan:  "Small boy, better smile!"
 
 
-Bryan:  "NO!  Small boy, better smile"
+Bryan:  "Tall boy, look over here!"
+
+
+Bryan:  "NO!  Small boy, better smile!"
 
 Lather, rinse, repeat for about 20 minutes.  A bit dissapointed.  This photographer came highly recommended as a really family friendly and fun photographer.  Maybe he was just having a bad day.
 
