@@ -5,7 +5,7 @@
 layout: home
 ---
   <div class="twig" >
-<img src="twig.jpg"/>
+<img src="twig color.png"/>
 <br/>
 	I remembered reading that the smallest bird could travel 
 thousands of miles across the Pacific unencumbered 
