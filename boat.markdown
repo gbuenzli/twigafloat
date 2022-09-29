@@ -118,9 +118,7 @@ Holding Tank: 180 gal
 
 <li>New hanging hammock seat & a regular hammock
 </li>
-<li>Plastic containers for storage (food, misc items - to keep organized)
-</li>
-<li>3 Full body Wet suits - New, never worn (Womens L/ Mens S & L)</li>
+
 <li>Portable Mini Projector</li>
 <li>Built in, custom, outdoor movie screen</li>
 <li>Full isinglass enclosures (entire cockpit area & helm) </li>
@@ -319,6 +317,8 @@ switch panel & warning light at cooker
 
 <li>Convection Microwave</li>
 <li>Utensils, Sur LaTable melamine cups & dinnerware, knives, handheld blender, ice cream maker (small/compact)
+</li>
+<li>Plastic containers for storage (food, misc items - to keep organized)
 </li>
 
 </ul>
@@ -716,7 +716,7 @@ NC-54 Furling system for Genoa
 
 <li>4 - New Aqua Lung BCD's 4- new regulators
 </li>
-
+<li>3 Full body Wet suits - New, never worn (Womens L/ Mens S & L)</li>
 <li>1 - Used BCD with regulator - checked, used and works well
 </li>
 
