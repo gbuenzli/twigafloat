@@ -201,11 +201,7 @@ Holding Tank: 180 gal
 <h3>Helm</h3>
 
 
-<ul>
-  <li>USB chargers at Helm</li>
 
-
-</ul>
 <div class="row">
   <div class="column">
 	<img src="/assets/img/boat/helm-1.png">
