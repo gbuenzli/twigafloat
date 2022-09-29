@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Lightening Boat
-
+permalink: /boat/ligntening
+exclude: true
 ---
 We're <strike>looking for</strike> found the perfect boat!
 
@@ -31,7 +32,7 @@ Fuel Tank: 275 gal
 Holding Tank: 21 gal
 </li>
 </ul>
-<img src="/assets/img/1.png">
+<img src="/assets/img/oldboat/1.png">
 
 
 
@@ -67,28 +68,28 @@ Holding Tank: 21 gal
 
 <div class="row">
   <div class="column">
- <img src="/assets/img/2.png">
-	<img src="/assets/img/5.png">
-	<img src="/assets/img/6.png">
-	<img src="/assets/img/39.png">
+ <img src="/assets/img/oldboat/2.png">
+	<img src="/assets/img/oldboat/5.png">
+	<img src="/assets/img/oldboat/6.png">
+	<img src="/assets/img/oldboat/39.png">
   </div>
   <div class="column">
-	<img src="/assets/img/11.png">
-	<img src="/assets/img/22.png">
-	<img src="/assets/img/29.png">
-	<img src="/assets/img/53.png">
+	<img src="/assets/img/oldboat/11.png">
+	<img src="/assets/img/oldboat/22.png">
+	<img src="/assets/img/oldboat/29.png">
+	<img src="/assets/img/oldboat/53.png">
   </div>
   <div class="column">
-	<img src="/assets/img/32.png">
-	<img src="/assets/img/34.png">
-	<img src="/assets/img/35.png">
-	<img src="/assets/img/54.png">
+	<img src="/assets/img/oldboat/32.png">
+	<img src="/assets/img/oldboat/34.png">
+	<img src="/assets/img/oldboat/35.png">
+	<img src="/assets/img/oldboat/54.png">
   </div>
   <div class="column">
- 	<img src="/assets/img/36.png">
-	<img src="/assets/img/37.png">
-	<img src="/assets/img/38.png">
-	<img src="/assets/img/56.png">
+ 	<img src="/assets/img/oldboat/36.png">
+	<img src="/assets/img/oldboat/37.png">
+	<img src="/assets/img/oldboat/38.png">
+	<img src="/assets/img/oldboat/56.png">
   </div>
 </div>
 <h3>Helm/Flybridge</h3>
@@ -105,22 +106,22 @@ Holding Tank: 21 gal
 </ul>
 <div class="row">
   <div class="column">
-	<img src="/assets/img/3.png">
+	<img src="/assets/img/oldboat/3.png">
 
 
   </div>
   <div class="column">
-  	<img src="/assets/img/31.png">
-	<img src="/assets/img/33.png">
+  	<img src="/assets/img/oldboat/31.png">
+	<img src="/assets/img/oldboat/33.png">
 
   </div>
   <div class="column">
 
-	<img src="/assets/img/51.png">
+	<img src="/assets/img/oldboat/51.png">
   </div>
   <div class="column">
 
-	<img src="/assets/img/30.png">
+	<img src="/assets/img/oldboat/30.png">
 
   </div>
 </div>
@@ -144,22 +145,22 @@ Holding Tank: 21 gal
 
 <div class="row">
   <div class="column">
-<img src="/assets/img/12.png">
+<img src="/assets/img/oldboat/12.png">
 
 
   </div>
   <div class="column">
 
-<img src="/assets/img/21.png">
+<img src="/assets/img/oldboat/21.png">
 
   </div>
   <div class="column">
-  	<img src="/assets/img/40.png">
+  	<img src="/assets/img/oldboat/40.png">
 
   </div>
   <div class="column">
   	
-<img src="/assets/img/41.png">
+<img src="/assets/img/oldboat/41.png">
   </div>
 </div>
 
@@ -179,12 +180,12 @@ Holding Tank: 21 gal
 
 <div class="row">
   <div class="column">
-<img src="/assets/img/28.png">
+<img src="/assets/img/oldboat/28.png">
 
 
   </div>
   <div class="column">
-  	<img src="/assets/img/42.png">
+  	<img src="/assets/img/oldboat/42.png">
 
   </div>
 </div>
@@ -205,12 +206,12 @@ Holding Tank: 21 gal
 
 <div class="row">
   <div class="column">
-<img src="/assets/img/13.png">
+<img src="/assets/img/oldboat/13.png">
 
 
   </div>
   <div class="column">
-  	<img src="/assets/img/43.png">
+  	<img src="/assets/img/oldboat/43.png">
 
   </div>
 </div>
@@ -234,28 +235,28 @@ Holding Tank: 21 gal
 
 <div class="row">
   <div class="column">
- 	<img src="/assets/img/14.png">
-	<img src="/assets/img/17.png">
-	<img src="/assets/img/18.png">
+ 	<img src="/assets/img/oldboat/14.png">
+	<img src="/assets/img/oldboat/17.png">
+	<img src="/assets/img/oldboat/18.png">
 	
   </div>
   <div class="column">
-  	<img src="/assets/img/23.png">
-	<img src="/assets/img/24.png">
-	<img src="/assets/img/27.png">
+  	<img src="/assets/img/oldboat/23.png">
+	<img src="/assets/img/oldboat/24.png">
+	<img src="/assets/img/oldboat/27.png">
 	
   </div>
   <div class="column">
 
-	<img src="/assets/img/50.png">
-	<img src="/assets/img/48.png">
-	<img src="/assets/img/55.png">
+	<img src="/assets/img/oldboat/50.png">
+	<img src="/assets/img/oldboat/48.png">
+	<img src="/assets/img/oldboat/55.png">
   </div>
   <div class="column">
-  	<img src="/assets/img/44.png">
-	<img src="/assets/img/45.png">
+  	<img src="/assets/img/oldboat/44.png">
+	<img src="/assets/img/oldboat/45.png">
 	
-	<img src="/assets/img/57.png">
+	<img src="/assets/img/oldboat/57.png">
   </div>
 </div>
 
@@ -273,22 +274,22 @@ Holding Tank: 21 gal
 
 <div class="row">
   <div class="column">
-<img src="/assets/img/15.png">
-<img src="/assets/img/16.png">
-<img src="/assets/img/49.png">
+<img src="/assets/img/oldboat/15.png">
+<img src="/assets/img/oldboat/16.png">
+<img src="/assets/img/oldboat/49.png">
   </div>
   <div class="column">
-  	<img src="/assets/img/19.png">
-<img src="/assets/img/20.png">
+  	<img src="/assets/img/oldboat/19.png">
+<img src="/assets/img/oldboat/20.png">
   </div>
   <div class="column">
-  	<img src="/assets/img/25.png">
-<img src="/assets/img/26.png">
-<img src="/assets/img/52.png">
+  	<img src="/assets/img/oldboat/25.png">
+<img src="/assets/img/oldboat/26.png">
+<img src="/assets/img/oldboat/52.png">
   </div>
   <div class="column">
-  	<img src="/assets/img/46.png">
-<img src="/assets/img/47.png">
+  	<img src="/assets/img/oldboat/46.png">
+<img src="/assets/img/oldboat/47.png">
   </div>
 </div>
 
@@ -333,11 +334,11 @@ Holding Tank: 21 gal
 
 <div class="row">
   <div class="column">
-<img src="/assets/img/10.png">
+<img src="/assets/img/oldboat/10.png">
 
   </div>
   <div class="column">
-  	<img src="/assets/img/8.png">
+  	<img src="/assets/img/oldboat/8.png">
 
   </div>
 </div>
@@ -389,7 +390,7 @@ Holding Tank: 21 gal
  
  <div class="row">
   <div class="column">
-  	<img src="/assets/img/4.png">
+  	<img src="/assets/img/oldboat/4.png">
   </div>
 </div>
 <h3>Under Boat</h3>
@@ -409,11 +410,11 @@ Holding Tank: 21 gal
 
  <div class="row">
   <div class="column">
-<img src="/assets/img/7.png">
+<img src="/assets/img/oldboat/7.png">
 
   </div>
   <div class="column">
-  	<img src="/assets/img/9.png">
+  	<img src="/assets/img/oldboat/9.png">
   </div>
 </div>
 
