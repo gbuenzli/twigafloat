@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Boat
-permalink: /boat/
+title: Lightening Boat
+
 ---
-We're found the perfect boat!  Again!
+We're <strike>looking for</strike> found the perfect boat!
 
 <ul>
-<li>Year: 2008</li>
-<li>Make: Leopard</li>
-<li>Model: 46</li>
-<li>Length: 46ft</li>
-<li>Length Overall: 46ft</li>
+<li>Year: 2012</li>
+<li>Make: Lagoon</li>
+<li>Model: 450</li>
+<li>Length: 45ft</li>
+<li>Length Overall: 45.83ft</li>
 <li>
 Max Bridge Clearance: 75.58ft</li>
 <li>
