@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lightening Boat
-permalink: /boat/ligntening
+permalink: /boat/lightening
 exclude: true
 ---
 We're <strike>looking for</strike> found the perfect boat!
