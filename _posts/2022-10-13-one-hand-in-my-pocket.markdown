@@ -4,6 +4,10 @@ title:  "One hand in my pocket"
 date:   2022-10-13
 categories: general
 ---
+
+<img src="/assets/img/hand-in-pocket.jpeg"/>
+
+
 Take a Jagged little pill and come along with me on a journey to the past.  In 1995, I may or may not have been a sophomore in College.  I can neither confirm, nor deny that my friends played the newly released albumn by Alanis Morrissette. A couple times.  Over and over.  And over. 
 
 I grew to hate it.  Nails on a chalkboard kind of hatred.
@@ -37,7 +41,6 @@ The "boating community" has not.  At least not the ones with something to sell y
 
 They all have a hand in your pocket, assuming that it's deep...even when it's not.
 
-<img src="/assets/img/hand-in-pocket.jpeg"/>
 
 I've got some stories, even at this early phase.
 
