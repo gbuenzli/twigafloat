@@ -41,7 +41,7 @@ facebook_username: twigafloat
 theme: minima
 plugins:
   - jekyll-feed
-
+  - jekyll-seo-tag
 
 domain: gbuenzli.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: https://gbuenzli.github.io  # the base hostname and protocol for your site, e.g. http://example.com
