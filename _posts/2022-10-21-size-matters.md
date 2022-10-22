@@ -7,7 +7,7 @@ categories: general
 
 It's not how big it is, it's what you do with it.  
 
-Unless what you do with it is live harmoniously with a family of five, a dog, and a cat.
+Unless what you do with it is live harmoniously with a family of five, a dog, and a cat.  On a boat.
 
 Then, it's all about how big it is.
 
