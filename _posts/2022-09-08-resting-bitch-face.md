@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Why is everybody smiling at me?"
+title:  "Resting Bitch Face"
 date:   2022-09-08
 categories: general
 ---
