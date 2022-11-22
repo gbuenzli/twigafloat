@@ -27,7 +27,7 @@ Onward and upward.  We found a Leopard 46.  Well, we found it "again".  We fell 
 
 Allow me a brief interlude....
 
-What was a "let's leave in 2023" had somehoe become a "let's go in 2025" over the years and beers.  We were deflecting and becoming another armchair sailor story.  Always a reason to wait.
+What was a "let's leave in 2023" had somehow become a "let's go in 2025" over the years and beers.  We were deflecting and becoming another armchair sailor story.  Always a reason to wait.
 
 Then....covid...school shootings...mall shootings.. random anywhere shootings.
 

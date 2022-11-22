@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Resting Bitch Face"
+title:  "Resting Boat Face"
 date:   2022-09-08
 categories: general
 ---
@@ -31,3 +31,5 @@ You see, today we went under contract on a <a href="/boat/lightening.html">beaut
 After months of looking at every catamaran between 40 and 50 feet on the market, we finally found our dream boat!  It has everything we need (almost: we have to add A/C): solar, lithium, 4 cabins, flybridge, forward cockpit.  It's lovely!
 
 It turns out that the cure to RBF is to have a mid life crisis,  spend your savings on a boat, move aboard with your family, and see the world.
+
+Maybe I redefined RBF as a new state of "resting boat face"?
